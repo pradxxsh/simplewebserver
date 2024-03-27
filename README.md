@@ -202,7 +202,8 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![alt text](<ex01 output-1.png>)
+![ex01 output](https://github.com/pradxxsh/simplewebserver/assets/131758539/4da8d526-8c01-42e7-b8b5-10b55e637cfa)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
